@@ -155,6 +155,112 @@ Answer and Explanation:
    * Cultural Figure: His "Instruction" is a priceless historical document and literary masterpiece, offering a rare personal voice from the period on rulership, faith, and ethics. It solidified his image as the ideal Christian prince—brave, pious, and wise.
 3. The Monuments:The two statues (a bust and a seated figure) are common representations of Monomakh. He is often depicted as a thoughtful, bearded ruler, sometimes holding a cross or a scroll (symbolizing his "Instruction" or the law). Such monuments to him can be found in cities like Moscow (where he is considered a symbolic predecessor of the Muscovite tsars) and Chernigov.
 Conclusion: The person is Vladimir Monomakh. His role was that of the last effective ruler of a united Kievan Rus', a famed military leader against the steppe nomads, a lawgiver, and the author of a seminal literary work that defined the ideals of princely rule in Russian culture.
+Thank you for providing the detailed view of the page. Here are the comprehensive, fact-checked answers for Questions 8 and 9.
 
+# 8
 
+The Region and the City:
 
+* Region: The region indicated on the map is the North-East of Kievan Rus', specifically the interfluve of the Oka and Volga rivers. This area was the core of the Vladimir-Suzdal Principality.
+* The City: The new city to which the center of power moved was Vladimir-on-Klyazma (Vladimir). While founded earlier, it became the political capital in the 12th century under Prince Andrei Bogolyubsky.
+
+Explanation of the Shift in Power and Vladimir's Rise:
+
+The shift of the political center from Kiev to Vladimir in the 12th century was caused by a combination of Kiev's decline and the North-East's strategic advantages.
+
+1. Decline of Kiev (The "Push" Factors):
+
+* Fragmentation & Dynastic Strife: The Kievan Rus' state fragmented into competing principalities after the reign of Vladimir Monomakh. Kiev was constantly fought over by rival branches of the Rurikid dynasty, weakening it through endless princely wars.
+* Economic Decline: The Byzantine Empire's decline and the shifting of major Eurasian trade routes (like the Silk Road) away from the Dnieper River undermined Kiev's economic foundation.
+* Nomadic Pressure: Constant raids by the Cumans (Polovtsians) on the southern steppe frontiers made the Kiev region increasingly dangerous and unstable, disrupting agriculture and trade.
+
+2. Rise of Vladimir-Suzdal (The "Pull" Factors):
+
+* Strategic Security: The North-East was protected by dense forests ("Zalessky Krai" - "Land beyond the forests"), which acted as a natural buffer against nomadic cavalry raids from the steppe.
+* Economic Potential: It featured vast expanses of fertile land ("Opolye"), attracting settlers from the war-torn south. It had abundant resources (timber, furs) and controlled the headwaters of the Volga River trade route.
+* Strong, Centralized Rule: Princes like Yuri Dolgoruky and especially his son Andrei Bogolyubsky pursued a policy of strengthening their personal, autocratic power, breaking the tradition of seniority and boyar (noble) councils that hampered Kiev. Andrei explicitly spurned Kiev, sacking it in 1169 and taking the title of Grand Prince to his own capital, Vladimir.
+* Symbolic Legitimacy: To legitimize Vladimir as the new capital, Andrei and his successors embarked on a monumental building program. They constructed magnificent white-stone cathedrals (e.g., the Dormition Cathedral) and Golden Gates, rivaling and intended to surpass Kiev's splendor. They also promoted the veneration of a new national icon, the Vladimir Icon of the Mother of God.
+
+Conclusion for Q8: The center of power moved from Kiev to Vladimir in the Vladimir-Suzdal Principality because the North-East offered security, economic potential, and the opportunity for its princes to build a new, more centralized state, free from the internecine strife and external vulnerabilities that plagued Kiev.
+
+# 9
+
+The Two External Dangers of the Early 13th Century:
+
+In the early 13th century, the Russian principalities faced a catastrophic existential threat from the East and a severe ideological-military threat from the North-West.
+
+1. The Mongol Invasion (The Tatar-Mongol Yoke):
+   * Who: The unified Mongol Empire under Batu Khan, grandson of Genghis Khan.
+   * When: The main invasion of the Rus' principalities occurred from 1237 to 1240.
+   * Nature of the Danger: This was a war of conquest and subjugation. The Mongols employed total warfare, systematically destroying cities (like Ryazan, Vladimir, and Kiev), massacring populations, and dismantling existing political structures. Their goal was to make the Russian princes tributary vassals.
+2. The Northern Crusades (Swedish and German Knights):
+   * Who: Swedish forces and the German Teutonic Order and Order of the Sword Brothers (later merged as the Livonian Order).
+   * When: A sustained campaign throughout the 13th century, with critical battles in the 1240s.
+   * Nature of the Danger: This was a religious-political expansion. The Swedish and German orders, under the banner of the Papacy's Northern Crusades, sought to conquer and convert the Orthodox and pagan lands of Novgorod and Pskov. The danger was not just territorial loss but the enforced conversion of the population from Orthodoxy to Roman Catholicism, threatening the core of Russian cultural identity.
+
+How Russia Dealt with Them:
+
+The response to these twin threats diverged dramatically, setting a historical course for centuries.
+
+1. Response to the Mongols: Pragmatic Submission and Survival.
+   * Military Resistance & Defeat: Initial resistance by individual principalities (like Vladimir) was heroic but futile. The Russian armies were defeated in detail due to a lack of unity and the Mongols' superior military tactics.
+   * Acceptance of Vassalage: After the destruction, the surviving Russian princes, beginning with Yaroslav II of Vladimir in 1243, were forced to travel to the Mongol capital Sarai to receive a patent for rule ("yarlyk"). This meant acknowledging the Khan of the Golden Horde as their sovereign, paying heavy tribute (including a tax on individuals), and supplying troops.
+   * Result: This established the "Tatar Yoke," a period of over 200 years of Mongol suzerainty. The Russian principalities retained their internal order and Orthodox faith but lost their sovereignty and were bled dry by tribute. This subjugation, while humiliating, allowed Russian statehood and culture to survive.
+2. Response to the Western Crusaders: Military Defense and Symbolic Victory.
+   * Unified Military Action: The Republic of Novgorod, which was largely spared by the Mongols due to its northern swampy lands, took the lead. It called upon its prince, Alexander Yaroslavich.
+   * Alexander Nevsky's Campaigns: Prince Alexander decisively defeated the two invading forces:
+      * Battle of the Neva (1240): He defeated a Swedish army, earning the epithet "Nevsky" ("of the Neva").
+      * Battle on the Ice (Lake Peipus, 1242): He famously defeated the heavily armored knights of the Teutonic Order on the frozen lake, halting their eastward advance.
+   * Result & Strategy: These victories stopped the Catholic German and Swedish expansion into Russian lands. Alexander Nevsky chose a policy of peaceful submission to the Mongols (seeing them as less of a threat to Russian identity, as they did not interfere with the Orthodox Church) in order to focus all resources on defending the western frontier. This policy was endorsed by the Orthodox Church and became foundational for future Muscovite strategy.
+
+Conclusion for Q9: Russia faced annihilation from the Mongol Empire and conquest/conversion from the Western Crusaders. It dealt with the Mongols through pragmatic submission and vassalage to ensure survival, and with the Western threat through decisive military resistance led by Alexander Nevsky. This dual response preserved Orthodoxy and the Russian principalities, albeit under the long and oppressive Mongol Yoke.
+
+Here are detailed, fact-checked answers for Questions 10 and 11, based on the provided descriptions.
+
+# 10
+
+The Name of the Russian Duke:
+
+The duke depicted in both pictures is Alexander Yaroslavich, known as Alexander Nevsky (Александр Невский) (c. 1221–1263), Prince of Novgorod, Grand Prince of Kiev and Vladimir.
+
+Explanation of the Pictures' Plots:
+
+1. Left Picture (The Warrior on Horseback): This depicts Alexander Nevsky as a military commander and saint. The scene almost certainly represents his most famous victory: the Battle on the Ice (Ледовое побоище) on Lake Peipus in 1242, where he decisively defeated the crusading knights of the Teutonic Order. Alternatively, it could symbolize his earlier victory over the Swedes at the Battle of the Neva (1240), from which he earned the epithet "Nevsky" ("of the Neva"). The imagery emphasizes his role as the defender of the Russian lands from Western invaders.
+2. Right Picture (The Ruler on the Throne): This depicts Alexander Nevsky as a statesman and loyal vassal. The scene likely shows him paying homage to or receiving a yarlyk (a patent to rule) from a Mongol Khan of the Golden Horde. After the Mongol conquest, Russian princes had to travel to the Horde's capital, Sarai, to pledge allegiance and be confirmed in their principalities. This image illustrates the other, more controversial pillar of Alexander's policy: pragmatic submission to the Mongol Empire to secure peace for his people and his own political authority.
+
+Why was he advertised by Soviet propaganda in the late 1930s?
+
+Soviet propaganda under Joseph Stalin resurrected and radically reshaped Alexander Nevsky's image in 1938 for specific, urgent political reasons tied to the pre-WWII climate:
+
+1. Patriotic Mobilization: With the rising threat of Nazi Germany, Stalin needed a national Russian hero to rally the people, bypassing Communist internationalist ideology. Alexander Nevsky, as a legendary defender of the Motherland against foreign invaders, was perfect.
+2. Anti-German Symbolism: The 1938 Sergei Eisenstein film Alexander Nevsky, with its iconic score by Prokofiev, was the centerpiece of this campaign. The film graphically depicted the Teutonic Knights as ruthless, fanatical invaders, creating a direct and powerful historical parallel to the contemporary Nazi threat. The film's famous quote, "Whoever comes to us with a sword, shall die by the sword," was a clear message to Germany.
+3. Strategic Message: The propaganda highlighted only one side of his legacy—the defiant resistance to the West. It completely omitted his subservience to the Mongols. The message was clear: Russia must unite and fiercely resist the invasion from the West (Germany), while the government could pursue pragmatic diplomacy with the East (the Soviet-Japanese Neutrality Pact of 1941 echoed this). His canonization by the Orthodox Church was downplayed, secularizing him into a purely national hero.
+
+In summary: The pictures show Alexander Nevsky as both the defender against the West and the pragmatic vassal of the East. Soviet propaganda in the late 1930s exalted the first role to forge a nationalist, anti-German rallying point on the eve of World War II.
+
+# 11
+
+The City Marked by the Red Dot:
+
+Based on the map's context ("Principality of Moscow" is labeled) and the historical question, the red dot almost certainly marks Moscow (Москва).
+
+1. Its Name in the Early 13th Century:
+
+In the early 13th century (specifically, at the time of the first written mention and before the Mongol invasion), it was a small fortified town on the Moskva River called Moscow. Its first mention in a chronicle is dated to 1147, when Prince Yuri Dolgoruky of Vladimir-Suzdal is said to have feasted there. There was no other name; it was simply the settlement of Moscow.
+
+2. How it Became the Most Important Russian City by the End of the 13th Century:
+
+Moscow's rise from a minor provincial outpost to the preeminent Russian city by 1300 was dramatic and resulted from a combination of shrewd politics, geography, and Mongol policy.
+
+* Strategic Geography: Moscow was excellently located:
+   * At the crossroads of important river trade routes (Moskva River connected the Volga and Oka basins).
+   * In the relatively forested center of the Vladimir-Suzdal lands, offering protection from Mongol raids compared to more exposed cities like Vladimir or Kiev.
+   * This attracted merchants, artisans, and peasants seeking safety, boosting its population and wealth.
+* Shrewd, Long-Reigning Princes: The early princes of Moscow were ambitious and politically astute.
+   * Daniel (1261-1303), the founder of the Moscow princely line and youngest son of Alexander Nevsky, is credited with initiating Moscow's expansion, seizing the key town of Kolomna.
+   * The princes played the role of loyal, dependable servants to the Mongol Khans of the Golden Horde. They meticulously collected and delivered tribute, often using Mongol authority to undermine rival princes.
+* The Key Factor: Mongol Patronage: This was the most critical element. The Mongols (Golden Horde) needed a reliable local ruler to act as their chief tax collector and enforcer among the Russian princes. The princes of Moscow proved ruthlessly efficient at this.
+   * In 1328, Prince Ivan I (Ivan Kalita, "Moneybags") helped the Mongols crush a rebellion in Tver, Moscow's main rival. As a reward, the Mongol Khan granted him the title of Grand Prince of Vladimir and the exclusive right to collect tribute for the Horde from all Russian lands.
+   * This made Moscow the de facto administrative and financial capital of Rus'. Ivan Kalita used the vast wealth from collected tribute to buy lands, loan money to other princes, and fortify Moscow with the first stone Kremlin (1339). He also persuaded the head of the Russian Orthodox Church, the Metropolitan, to move his seat from Vladimir to Moscow (c. 1326), making it the religious capital as well.
+
+Conclusion for Q11: The city is Moscow. From a minor fort mentioned in 1147, it rose to supremacy by 1300 and solidified its status by 1340 due to its strategic location, the cunning and loyal service of its princes to the Mongol overlords, and the resulting roles as the primary tax collector for the Horde and, subsequently, the religious and political center of the Russian lands. Its rise was fundamentally tied to its subservient but exploitative relationship with the Mongol Empire.
