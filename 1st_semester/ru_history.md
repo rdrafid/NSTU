@@ -944,7 +944,9 @@ The Nobel Peace Prize was awarded to Mikhail Gorbachev in 1990 "for the leading 
 This event belongs to the final stage of Perestroika and the dissolution of the Soviet Union (late 1980s-1991).
 
 * Significance: Gorbachev's foreign policy, recognized by the prize, was the primary catalyst for ending the Cold War. Domestically, it highlighted the paradox of his rule: he was celebrated globally as a peacemaker while being blamed at home for the USSR's loss of superpower status and the ensuing political and economic chaos that led to its collapse in 1991.
+
 ————————-
+
 # 46
 
 1. What is common and what is different between these two cases?
