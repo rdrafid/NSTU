@@ -698,3 +698,281 @@ These three figures collectively represent the most tumultuous and transformativ
 * Stalin (Era of Totalitarian Consolidation and Terror): Stalin's rule represents the completion of the Soviet system as a totalitarian empire. The significance of his epoch is defined by: 1) The forced, brutal industrialization of the USSR via the Five-Year Plans; 2) The forced collectivization of agriculture, which destroyed the peasantry Stolypin had tried to create and caused famines; 3) The Great Terror of the 1930s, which physically eliminated all real and perceived opposition within the party and society; and 4) Leading the USSR to victory in World War II, which solidified its status as a superpower but at a colossal human cost. His rule entrenched a system of personal dictatorship, ideological conformity, and state terror that defined the Soviet Union for decades.
 
 In summary: The sequence Stolypin → Lenin → Stalin illustrates the epoch of Russia's passage from a decaying empire attempting reform, through a radical socialist revolution, to the solidified, terrifying power of a totalitarian superpower. It is the story of the 20th century's most dramatic political transformation.
+
+Based on the image you provided, here are the correct answers to questions #34 and #35.
+
+# 34
+
+1. Do these posters agitate for the Bolsheviks or against them?
+
+These posters agitate against the Bolsheviks. They are examples of White Army (anti-Bolshevik) propaganda from the Russian Civil War.
+
+2. What is the significance of that epoch of Russian history which is illustrated by the posters?
+
+The posters illustrate the Russian Civil War (1917-1922/23). This was a pivotal epoch with the following significance:
+
+* Existential Conflict: It was a brutal, multi-sided war to determine Russia's political future after the 1917 Revolutions—whether it would be a communist state, a restored monarchy, or another form of government.
+* Ideological Battle: The era was defined by intense propaganda warfare. The Bolsheviks (Reds) fought against a loose coalition of monarchists, republicans, nationalists, and foreign allies (the Whites).
+* Poster Messages: The specific posters attack core Bolshevik policies:
+   * The left poster ("All the land and factories – to the landowners and capitalists!") condemns Bolshevik nationalization of property, promising a return to the old social order.
+   * The right poster ("For the united Russia!") appeals to patriotism and tradition (using the symbol of Saint George), contrasting with the Bolsheviks' revolutionary internationalism and the fragmentation of the old empire.
+
+# 35
+
+What is the significance of that epoch of Russian history which is illustrated by the posters?
+
+The poster illustrates the New Economic Policy (NEP), introduced in 1921.
+
+The significance of this epoch is:
+
+* Major Policy Reversal: It marked a decisive end to the policy of "War Communism" (1918-1921), which involved the forcible seizure of all agricultural surplus from peasants, leading to widespread famine and rebellion.
+* Strategic Retreat: The NEP was a pragmatic, temporary retreat from full communism to revive the collapsed economy. It reintroduced a limited market economy.
+* The "Food Tax": As the poster shows, the state replaced grain requisitioning with a fixed tax in kind. Peasants knew exactly what they owed (the portion for the city) and could keep or freely sell their surplus (the portions for exchange and the family). This incentive aimed to restore agricultural production and ease tensions with the peasant majority.
+* Foundation for Recovery: The NEP succeeded in stabilizing the economy and allowed the war-torn Soviet state to recover, setting the stage for the debates and industrial drives of the late 1920s.
+
+Based on the image and text you provided, here are the answers for questions #36 and #37.
+
+# 36
+
+1. Which poster depicts kolkhozniki (collective farm workers)?
+
+The poster that depicts kolkhozniki is Poster C (the third one from the left in the set of four). It shows agricultural workers operating tractors in a field, which is the classic visual symbol of the mechanized collective farm (kolkhoz) during the Stalinist era.
+
+2. What is the significance of that epoch of Russian history which is illustrated by the poster?
+
+The poster illustrates the period of Stalinist Collectivization and Industrialization (late 1920s-1930s).
+
+* Policy: This era was defined by the First Five-Year Plan (1928-1932) and the forced collectivization of agriculture. Peasant farms were violently merged into large, state-controlled collective farms (kolkhozes).
+* Significance: This was a second, radical revolution from above with profound consequences:
+   1. Economic Transformation: Its goal was to modernize agriculture through mechanization (as shown by the tractors) and to extract grain and resources from the countryside to fund rapid heavy industrialization.
+   2. Social Catastrophe: It destroyed the traditional peasant way of life. Resistance was met with deportation or execution. The policy led directly to the catastrophic man-made famine of 1932-33 (Holodomor), particularly in Ukraine, killing millions.
+   3. Political Consolidation: It completed Stalin's consolidation of power, establishing total state control over the entire economy and society.
+
+# 37
+
+1. What is the idea behind the poster?
+
+The idea behind the poster "Ускорим промфинплан!" ("Uskorim promfinplan!" – "Let's Accelerate the Industrial-Financial Plan!") is to promote super-productivity and over-fulfillment of state economic plans.
+
+* It visually glorifies the Stakhanovite movement, where individual workers (like the miner Alexey Stakhanov) were celebrated for dramatically exceeding production quotas.
+* The poster's message is one of enthusiastic competition and labor heroism. It urges workers to pour their zeal and effort into the plan, personifying the plan itself as a figure being propelled forward by their collective labor. The goal was to inspire other workers to follow suit and boost overall industrial output.
+
+2. What is the significance of that epoch of Russian history which is illustrated by the poster?
+
+The poster belongs to the era of the Second and Third Five-Year Plans (1933-1941).
+
+* Context: This period followed the brutal collectivization drive. The focus shifted intensely to maximizing industrial output and meeting (or exceeding) planned quotas.
+* Significance:
+   1. Mobilization of Society: The state used propaganda, incentive systems, and immense social pressure to mobilize the entire population for industrial goals. The Stakhanovite movement was a key tool in this mobilization.
+   2. Building "Socialism in One Country": This frenetic industrial push was meant to prove the superiority of the Soviet system and rapidly build a self-sufficient industrial and military power, which Stalin deemed necessary for survival in a hostile world.
+   3. Preparation for War: The massive industrialization, particularly in heavy industry and defense, was crucial in preparing the USSR for the coming total war with Nazi Germany (The Great Patriotic War, 1941-1945).
+ 
+Based on the screenshot and text you provided, here are the answers to questions #38 and #39.
+
+# 38
+
+1. What was the reason for death?
+
+The reason for the death of all these people in 1937 was execution (or death in the Gulag camp system) as part of Joseph Stalin's "Great Purge," officially known as the Yezhovshchina or the Great Terror.
+
+2. What is the significance of that epoch of Russian history to which this event belongs?
+
+This event belongs to the period of the Great Purge (1936-1938), the peak of political repression under Stalin.
+
+* Purpose & Scale: It was a campaign of mass arrests, show trials, imprisonments, and executions designed to eliminate all perceived enemies of the state, both real and imagined. It targeted not only high-ranking political and military figures (like those pictured) but also intellectuals, artists, and ordinary citizens.
+* Significance:
+   1. Consolidation of Total Power: It was the final step in Stalin's absolute consolidation of power, utterly destroying any potential opposition within the Communist Party, the government, and the Red Army.
+   2. Climate of Terror: It created a pervasive atmosphere of fear and paranoia that ensured complete obedience and suppressed dissent throughout Soviet society for decades.
+   3. Historical Trauma: The Purge deeply scarred the Soviet Union, decimating its military leadership on the eve of World War II and leaving a lasting legacy of state violence and silenced memory.
+
+# 39
+
+(Note: While the exact map is not fully visible, the repeated label "Lake Ladoga" and the context of surrounding questions strongly indicate it depicts a WWII battle near Leningrad.)
+
+1. Events of what year are illustrated by this map?
+
+The map most likely illustrates the events of 1941, specifically the start of the Siege of Leningrad (also known as the Leningrad Blockade).
+
+2. What is the significance of that epoch of the Russian history which is illustrated by the map?
+
+The map illustrates the Great Patriotic War (1941-1945), the Soviet Union's conflict with Nazi Germany during World War II.
+
+* The Specific Event (Siege of Leningrad): Beginning in September 1941, German and Finnish forces encircled the city of Leningrad. The siege lasted for 872 days, becoming one of the longest and most destructive blockades in history.
+* Significance:
+   1. Extreme Suffering & Resilience: The blockade led to catastrophic famine and the deaths of over 1 million civilians, primarily from starvation. The survival of the city became a powerful symbol of Soviet and Russian resilience and sacrifice.
+   2. Strategic "Road of Life": Lake Ladoga, as shown on the map, was crucial. During winter, an ice road ("The Road of Life") was built across its frozen surface, providing the only supply line and evacuation route for the besieged city. This highlights the desperate and ingenious measures taken for survival.
+   3. Pivotal Theater of WWII: The Eastern Front, where this siege occurred, was the largest and bloodiest theater of World War II. The war's immense cost and ultimate victory became a central pillar of Soviet and later Russian national identity.
+
+Based on the new image you provided, here are the answers for questions #40 and #41.
+
+# 40
+
+1. What is the name of the city?
+
+The city on the map is Ленинград (Leningrad), which is present-day Saint Petersburg.
+
+2. What is the significance of that epoch of Russian history which is illustrated by the map?
+
+The map illustrates a crucial phase of Великая Отечественная война (The Great Patriotic War, 1941-1945), specifically the Siege of Leningrad.
+
+* The Event: The map shows German forces (in blue) encircling the city, cutting it off by land, with Lake Ladoga to the east. This depicts the beginning of the nearly 900-day siege, one of the longest and most destructive in history.
+* Significance:
+   1. Symbol of Suffering and Resilience: The blockade led to extreme famine and the deaths of over a million civilians. The city's survival became a supreme symbol of Soviet resistance and endurance.
+   2. Strategic "Road of Life": Lake Ladoga, visible on the map, became the city's lifeline. In winter, a supply route (the "Road of Life") was established over the ice, and in summer, supplies came by boat. This highlights the desperate struggle for survival.
+   3. Pivotal Eastern Front: The defense of Leningrad tied down massive German forces and was a key strategic failure for the Nazi war machine. The war on this front was the largest and most brutal theater of World War II, fundamentally shaping the modern history of Russia and Europe.
+
+# 41
+
+1. What is the idea behind the posters?
+
+The posters are both powerful examples of Soviet home front mobilization propaganda during the Great Patriotic War, targeting different segments of the population with specific calls to action.
+
+* Left Poster ("We Shall Replace!" / "ЗАМЕНИМ!"):
+   * Idea: It calls on Soviet women to join the industrial workforce to replace the men who have gone to the front. The determined female worker in front of industrial imagery represents the critical role of women in keeping factories running and the war economy going.
+* Right Poster ("The enemy will not escape revenge of people!" / "ОТ НАРОДНОЙ МЕСТИ! НЕ УЙТИ ВРАГУ!"):
+   * Idea: It calls for total people's war and partisan resistance, even among the elderly in occupied territories. The armed older peasant couple symbolizes that every citizen, regardless of age, must become a defender and an avenger against the invading enemy.
+
+2. What is the significance of that epoch of Russian history which is illustrated by the posters?
+
+The posters belong to the period of the Great Patriotic War (1941-1945).
+
+* Context: Following the initial shock of the German invasion, the Soviet state mobilized its entire society for a "war of annihilation."
+* Significance:
+   1. Total Mobilization: The war effort required the complete dedication of the population. Propaganda like this was essential to motivate civilians—women, the elderly, teenagers—to undertake extreme sacrifices in factories, fields, and behind enemy lines.
+   2. Unity and Sacrifice: These posters promoted a message of national unity, collective sacrifice, and righteous vengeance, which were central themes in sustaining morale during the war's immense hardships.
+   3. Foundation of Victory: The unprecedented mobilization of human resources depicted in these posters was a fundamental factor in the Soviet Union's eventual victory, achieved at a staggering human cost.
+ 
+Of course. Here are the answers for questions 42 and 43, based on the provided image and text.
+
+# 42
+
+1. Explain the change in the names at the Red Square Mausoleum: why and when did it occur?
+
+The change occurred in 1961. Stalin's name was removed from the mausoleum, leaving only Lenin's. This was a direct, public consequence of the policy of "de-Stalinization" initiated by Nikita Khrushchev.
+
+* Why: Khrushchev denounced Stalin's crimes—including the Great Purges, forced collectivization's famine, and his cult of personality—in his "Secret Speech" at the 20th Party Congress in 1956. Removing Stalin's body from the mausoleum (it was later buried by the Kremlin Wall) and his name from it was the ultimate symbolic act of repudiating his legacy and consolidating Khrushchev's political reforms.
+
+2. What did it mean for the Russian (Soviet) people?
+
+For the Soviet people, this was a profoundly shocking and confusing event that forced a painful national reckoning.
+
+* It meant the official, public shattering of the god-like image of Stalin, who had been presented as the infallible "Father of Nations" and victorious wartime leader for decades.
+* It opened a period of uncertainty and trauma, as people had to reconcile the official narrative of a criminal tyrant with their own memories, grief, and sacrifices made in his name. It represented a fragile "thaw" in political and cultural life, but one filled with anxiety about the past.
+
+3. What is the significance of that epoch of Russian history to which this event belongs?
+
+This event belongs to the Khrushchev Thaw (mid-1950s to mid-1960s).
+
+* Significance: This era marked a decisive, though incomplete, break with the most extreme terror of Stalinism. It involved:
+   1. De-Stalinization: The systematic criticism of Stalin's rule, the release of millions from Gulag camps, and a relaxation of state terror.
+   2. The "Thaw": A limited cultural and intellectual liberalization, with slightly more freedom for artists and writers.
+   3. Political Limits: The process was controlled from above. The core structures of the one-party state and centrally planned economy remained intact, and criticism of the Communist Party itself or of Lenin was still forbidden. The removal of Stalin's name from the mausoleum perfectly symbolizes this controlled, partial reform.
+
+# 43
+
+1. What event is mocked by the caricature?
+
+The caricature mocks the Cuban Missile Crisis of October 1962, the 13-day confrontation between the United States (President John F. Kennedy) and the Soviet Union (Premier Nikita Khrushchev) that brought the world to the brink of nuclear war.
+
+* How it mocks it: The cartoon depicts Khrushchev and Kennedy in an "arm-wrestling" match, but they are sitting on a giant nuclear missile instead of a table. This satirizes the crisis as a reckless, macho game of brinkmanship between the two superpowers, where the "prize" for losing was global annihilation. It reduces the high-stakes geopolitical confrontation to a childish yet deadly contest of wills.
+
+2. What is the significance of that epoch of the Russian history to which this event belongs?
+
+This event belongs to the peak period of the Cold War, specifically the era of heightened tension and direct superpower confrontation in the early 1960s.
+
+* Significance: The Cuban Missile Crisis was the single most dangerous moment of the Cold War and a pivotal turning point.
+   1. Brink of Nuclear War: It demonstrated how close the world came to catastrophe due to miscalculation and posturing.
+   2. Shift in Soviet Strategy: The crisis ended in a public compromise (Soviet missiles removed from Cuba in exchange for a secret U.S. pledge not to invade Cuba and the later removal of U.S. missiles from Turkey). This perceived humiliation for Khrushchev contributed to his ouster in 1964 and led to a Soviet drive for nuclear parity with the U.S., rather than risky gambles.
+   3. Détente: The shared terror of the crisis led to the establishment of a direct communication hotline between Washington and Moscow and, eventually, to a period of détente (easing of tensions) and arms control talks in the following decade. The cartoon captures the reckless pre-détente mindset it helped to end.
+
+Based on the image and text you provided, here are the answers for questions #44 and #45.
+
+# 44
+
+1. Tell about the reform promoted by the posters.
+
+The posters promote the economic reforms of Perestroika ("Restructuring") initiated by Mikhail Gorbachev in the mid-to-late 1980s. Specifically, they address the concepts of "Khozraschyot" (economic accounting) and self-financing.
+
+* Left Poster ("Be Strong in Economics!" / "Khozyaystvuy Umelo!"): This poster encourages skillful, efficient management. The giant hand on the abacus symbolizes the new requirement for factories and enterprises to carefully account for costs, reduce waste, and be financially self-sufficient, moving away from the old system of guaranteed state funding regardless of performance.
+* Right Poster ("This is what the lazy one has got..." / "Zarplata" (Wage)): This poster promotes the direct link between worker productivity and pay. It criticizes laziness and absenteeism, showing that under the new reforms, wages would be tied to the actual results and efficiency of the worker and the enterprise, not just guaranteed.
+
+2. What is the significance of that epoch of the Russian history to which this reform belongs?
+
+This reform belongs to the period of Perestroika and Glasnost (mid-1980s to 1991), the final years of the Soviet Union.
+
+* Goal of Reform: The reforms aimed to revitalize the stagnant, centrally-planned Soviet economy by introducing elements of market-style accountability, incentive, and limited decentralization without abandoning socialism.
+* Significance of the Epoch:
+   1. Systemic Crisis: The need for such posters admitting to laziness and poor management highlighted the deep-seated economic problems and low productivity ("zastoy" or stagnation) of the Brezhnev era.
+   2. Contradiction and Failure: While the intent was to modernize socialism, Perestroika inadvertently exposed the system's fundamental flaws. The half-measures often led to shortages, confusion, and economic decline rather than renewal.
+   3. Unintended Consequences: The economic reforms, coupled with the political openness of Glasnost, unleashed forces (nationalist aspirations, public criticism, loss of control) that the Communist Party could not contain. This epoch is significant as the period of the collapse of the Soviet Union and its entire economic and political system.
+
+# 45
+
+1. Prove the Nobel Committee decision by the facts.
+
+The Nobel Peace Prize was awarded to Mikhail Gorbachev in 1990 "for the leading role he played in the radical changes in East-West relations." This decision is supported by key factual policies he initiated:
+
+* Ending the Cold War: Gorbachev renounced the Brezhnev Doctrine, which had justified Soviet military intervention in Eastern Europe. This allowed the peaceful, revolutionary transformations of 1989.
+* Arms Control: He signed groundbreaking treaties with the U.S., most notably the Intermediate-Range Nuclear Forces (INF) Treaty (1987), which eliminated an entire class of nuclear missiles.
+* Withdrawal from Afghanistan: He ordered the complete withdrawal of Soviet troops from the Afghan War (completed 1989), ending a costly and unpopular conflict.
+* German Reunification: He agreed to the reunification of Germany and its membership in NATO, a monumental concession that effectively ended the post-war division of Europe.
+
+2. What is the significance of that epoch of the Russian history to which this event belongs?
+
+This event belongs to the final stage of Perestroika and the immediate dissolution of the Soviet Union (1990-1991).
+
+* Significance:
+   1. End of the Cold War: Gorbachev's foreign policy was the primary catalyst for ending the decades-long geopolitical and ideological confrontation that had defined the second half of the 20th century. The Nobel Prize recognized this monumental achievement.
+   2. Paradox of Leadership: The award highlights the central paradox of the era: Gorbachev was celebrated globally as a peacemaker and reformer, while domestically he was increasingly blamed for the Soviet Union's loss of superpower status, economic chaos, and impending collapse.
+   3. Transition to a New World Order: This epoch marks the definitive end of the bipolar world. The award symbolizes the West's embrace of Gorbachev's "new thinking" in foreign policy, which replaced confrontation with cooperation, paving the way for the post-Cold War era. Domestically, it occurred amidst the terminal crisis of the USSR, which would formally dissolve in December 1991.
+ 
+———————————-
+
+Answer Regarding the Nobel Prize Slide (Mikhail Gorbachev)
+
+1. Prove the Nobel Committee decision by the facts.
+
+The Nobel Peace Prize was awarded to Mikhail Gorbachev in 1990 "for the leading role he played in the radical changes in East-West relations." Key facts supporting this decision include:
+
+* Ending the Arms Race: He signed the groundbreaking Intermediate-Range Nuclear Forces (INF) Treaty (1987) with the U.S., eliminating an entire class of nuclear missiles.
+* Renouncing the Brezhnev Doctrine: This policy shift allowed for the peaceful revolutions in Eastern Europe in 1989 without Soviet military intervention, leading to the fall of the Berlin Wall.
+* Withdrawal from Afghanistan: He ordered the complete withdrawal of Soviet troops (completed 1989), ending a costly and unpopular war.
+* German Reunification: He agreed to a reunified Germany within NATO, effectively ending the Cold War division of Europe.
+
+2. What is the significance of that epoch of Russian history to which this event belongs?
+
+This event belongs to the final stage of Perestroika and the dissolution of the Soviet Union (late 1980s-1991).
+
+* Significance: Gorbachev's foreign policy, recognized by the prize, was the primary catalyst for ending the Cold War. Domestically, it highlighted the paradox of his rule: he was celebrated globally as a peacemaker while being blamed at home for the USSR's loss of superpower status and the ensuing political and economic chaos that led to its collapse in 1991.
+————————-
+# 46
+
+1. What is common and what is different between these two cases?
+
+Common: Both photos show tanks on the streets of Moscow in the early 1990s, symbolizing extreme political crises where constitutional order broke down and military force was used to resolve a power struggle.
+
+Different:
+
+* Left Photo (August 1991): Depicts the failed hardline coup against Soviet President Gorbachev. Boris Yeltsin (standing on the tank) famously defied the plotters, casting himself and the tank crews as defenders of democracy against a regressive putsch. This event accelerated the USSR's dissolution.
+* Right Photo (October 1993): Shows the climax of the constitutional crisis between President Boris Yeltsin and the Russian parliament. Here, Yeltsin ordered tanks to shell the White House (parliament building) to crush his opponents. Yeltsin was now using the army to attack a democratically elected legislature.
+
+2. What is the significance of that epoch of the Russian history to which these events belong?
+
+This epoch marks the chaotic and violent birth of the post-Soviet Russian state (1991-1993).
+
+* Significance: These events demonstrated the fragility of new democratic institutions. The 1993 crisis concluded with Yeltsin's victory and a new constitution that established a super-presidential system, concentrating power in the executive branch and shaping Russia's political system to this day. The period is remembered as one of lawlessness, violent political conflict, and traumatic transition.
+
+# 47
+
+1. Explain the ideas of the caricatures dated 1992-1993.
+
+These cartoons are a satirical critique of the "shock therapy" economic reforms implemented by Yeltsin's government, led by Acting Prime Minister Yegor Gaidar.
+
+* Left Cartoon: A reformer (likely representing the government) says on the phone, "Now you understand, Yegor, what it is - a breakthrough in the economic reform." This sarcastically portrays the government's perspective, touting the painful measures as a historic "breakthrough."
+* Right Cartoon: It depicts the brutal reality for ordinary people. The word "Yegor" is a pun, as it sounds like the Russian word for price ("tsena"). The items—chocolate, washing powder, a sack of potatoes—all have the label "Yegor" (price). A skeleton cries "Help! Shock Therapy!" This illustrates the main consequence of "shock therapy": hyperinflation. Prices skyrocketed, wiping out savings and plunging millions into poverty, while basic goods became unaffordable.
+
+2. What is the significance of that epoch of the Russian history to which they belong?
+
+They belong to the period of radical economic "shock therapy" and the formation of wild capitalism in Russia (1992-1993).
+
+* Significance: This was the traumatic initial phase of Russia's transition to a market economy. The reforms, involving price liberalization and privatization, caused immense social hardship. This era created a deep public disillusionment with Western-style liberal reforms and contributed to the rise of powerful oligarchs, shaping a lasting negative perception of the 1990s as a time of chaos and poverty for many Russians.
